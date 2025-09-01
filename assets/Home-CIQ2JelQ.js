@@ -1,0 +1,1 @@
+import{C as r}from"./ContentWrapper-jjdumJ01.js";import{h as t}from"./moment-C5S46NFB.js";import{d as e,r as o,p as a,o as n}from"./index-BB40m8p3.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const h=e({__name:"Home",setup(s){return o(),o(t().format("MM/DD/YYYY")),(p,m)=>(n(),a(r,{contentTitle:"Dasbor","hint-icon":"star"}))}});export{h as default};
