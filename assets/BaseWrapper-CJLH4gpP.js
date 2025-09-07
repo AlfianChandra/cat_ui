@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as s,o,U as a}from"./index-ejyJlZ5F.js";const t={},c={class:"base-wrapper"};function n(e,_){return o(),s("div",c,[a(e.$slots,"default",{},void 0,!0)])}const f=r(t,[["render",n],["__scopeId","data-v-19a9d75f"]]);export{f as B};
